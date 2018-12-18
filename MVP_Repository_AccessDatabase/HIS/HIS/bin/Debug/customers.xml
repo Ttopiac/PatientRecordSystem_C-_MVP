@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <Name>Joe</Name>
+    <Address>Nowhere, TX 1023</Address>
+    <Phone>123-456</Phone>
+  </Customer>
+  <Customer>
+    <Name>Jane</Name>
+    <Address>Nowhere, AZ 1026</Address>
+    <Phone>124-456</Phone>
+  </Customer>
+  <Customer>
+    <Name>Steve</Name>
+    <Address>Nowhere, UT 1005</Address>
+    <Phone>125-456</Phone>
+  </Customer>
+</ArrayOfCustomer>

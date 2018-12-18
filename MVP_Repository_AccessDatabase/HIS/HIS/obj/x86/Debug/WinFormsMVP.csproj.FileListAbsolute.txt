@@ -1,0 +1,30 @@
+D:\winforms-mvp-master\WinFormsMVP\WinFormsMVP\bin\Debug\WinFormsMVP.exe
+D:\winforms-mvp-master\WinFormsMVP\WinFormsMVP\bin\Debug\WinFormsMVP.pdb
+D:\winforms-mvp-master\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.csprojResolveAssemblyReference.cache
+D:\winforms-mvp-master\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.Properties.Resources.resources
+D:\winforms-mvp-master\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.View.CustomerForm.resources
+D:\winforms-mvp-master\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.csproj.GenerateResource.Cache
+D:\winforms-mvp-master\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.exe
+D:\winforms-mvp-master\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.pdb
+D:\winforms-mvp-master - Copy (2)\WinFormsMVP\WinFormsMVP\bin\Debug\WinFormsMVP.exe.config
+D:\winforms-mvp-master - Copy (2)\WinFormsMVP\WinFormsMVP\bin\Debug\WinFormsMVP.exe
+D:\winforms-mvp-master - Copy (2)\WinFormsMVP\WinFormsMVP\bin\Debug\WinFormsMVP.pdb
+D:\winforms-mvp-master - Copy (2)\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.Properties.Resources.resources
+D:\winforms-mvp-master - Copy (2)\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.View.CustomerForm.resources
+D:\winforms-mvp-master - Copy (2)\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.View.LoginForm.resources
+D:\winforms-mvp-master - Copy (2)\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.View.OperatorForm.resources
+D:\winforms-mvp-master - Copy (2)\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.csproj.GenerateResource.Cache
+D:\winforms-mvp-master - Copy (2)\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.exe
+D:\winforms-mvp-master - Copy (2)\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.pdb
+D:\winforms-mvp-master - Copy (2)\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.csprojResolveAssemblyReference.cache
+D:\winforms-mvp-master - Copy (2) - Copy\WinFormsMVP\WinFormsMVP\bin\Debug\WinFormsMVP.exe.config
+D:\winforms-mvp-master - Copy (2) - Copy\WinFormsMVP\WinFormsMVP\bin\Debug\WinFormsMVP.exe
+D:\winforms-mvp-master - Copy (2) - Copy\WinFormsMVP\WinFormsMVP\bin\Debug\WinFormsMVP.pdb
+D:\winforms-mvp-master - Copy (2) - Copy\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.Properties.Resources.resources
+D:\winforms-mvp-master - Copy (2) - Copy\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.View.CustomerForm.resources
+D:\winforms-mvp-master - Copy (2) - Copy\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.View.LoginForm.resources
+D:\winforms-mvp-master - Copy (2) - Copy\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.View.OperatorForm.resources
+D:\winforms-mvp-master - Copy (2) - Copy\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.csproj.GenerateResource.Cache
+D:\winforms-mvp-master - Copy (2) - Copy\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.exe
+D:\winforms-mvp-master - Copy (2) - Copy\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.pdb
+D:\winforms-mvp-master - Copy (2) - Copy\WinFormsMVP\WinFormsMVP\obj\x86\Debug\WinFormsMVP.csprojResolveAssemblyReference.cache

@@ -1,0 +1,619 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CueTextBox" Collapsed="true">
+    <Position X="28.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAiAAAAAAIAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>CustomizedToolbox\CueTextBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HIS.CustomizedToolbox.Taskbar" Collapsed="true">
+    <Position X="35.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAQAEQAAAAQAAAAEAAIAAAAAAABAEAI=</HashCode>
+      <FileName>CustomizedToolbox\Taskbar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HIS.FunctionLibrary.LevenshteinDistance" Collapsed="true">
+    <Position X="35.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FunctionLibrary\LevenshteinDistance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HIS.Model.Customer" Collapsed="true">
+    <Position X="30" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAQAAAAAAIACAAAAIAAAAAA=</HashCode>
+      <FileName>Model\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HIS.Model.CustomerXmlRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="35.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAgAAAACEEAIAAAAAABAAQ=</HashCode>
+      <FileName>Model\CustomerXmlRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.Clinic" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="26.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Model\Entity\Clinic.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.CVR" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="37" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAA=</HashCode>
+      <FileName>Model\Entity\CVR.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.Diagnosis" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="26.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAABAAAAAAAAAAIChAAgBAEAAACGAQAGACAA=</HashCode>
+      <FileName>Model\Entity\Diagnosis.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.Family" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="28.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAEAAACAACAAAAQAAAAQAAAkAAAAACAABAAWABBA=</HashCode>
+      <FileName>Model\Entity\Family.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.Habit" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="30" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAQRAgAAAAAgAIABRMAAAgACCAAAABAAAAABAWgAAA=</HashCode>
+      <FileName>Model\Entity\Habit.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.HomeIsalnd" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Entity\HomeIsalnd.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.Measurement" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="28.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABgAAAAAAAIAAAAAAACAAAAAAAAAAAAGAAAA=</HashCode>
+      <FileName>Model\Entity\Measurement.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.Medicine" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="30" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RmAArgqIiBAAAICAmJZkBxAIqAKAQYIAQJAAyCGHSgA=</HashCode>
+      <FileName>Model\Entity\Medicine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.NEPHROPATHY" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAABAAAAAAAAAAAAAAAHAAAA=</HashCode>
+      <FileName>Model\Entity\NEPHROPATHY.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.Neuropathy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQIAACCAIAAAAiQABAAABAAAEACAEABAAAAAHAgAA=</HashCode>
+      <FileName>Model\Entity\Neuropathy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.Occupation" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="35.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Entity\Occupation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.Operator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="37" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAQAAACABAAAQAAAAAAAAACAAAAAAAAAAEAAAQ=</HashCode>
+      <FileName>Model\Entity\Operator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.Profile" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgAAAAAQIEgAABCACQAAgEAAAAAAAAAgAQAAAAGAAAA=</HashCode>
+      <FileName>Model\Entity\Profile.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.ProfileSimplfied" Collapsed="true">
+    <Position X="35.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgEAAAAQAAgAABCACAAAAAAAAAAAAAAAAQAAAACAAAA=</HashCode>
+      <FileName>Model\Entity\ProfileSimplied.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HIS.Model.Range" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="26.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAEAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Entity\Range.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.Record" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="28.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAQGAIAA=</HashCode>
+      <FileName>Model\Entity\Record.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.Referral" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAKYBAAAAAAAAAAAABIh3AAAAAAAAAAGAAAA=</HashCode>
+      <FileName>Model\Entity\Referral.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.Religion" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Entity\Religion.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.RETINOPATHY" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="37" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAQAAHAAAA=</HashCode>
+      <FileName>Model\Entity\RETINOPATHY.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.SOAP" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="28.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAACAQAAAAAAAEAAAAAAAAAAAGAAAA=</HashCode>
+      <FileName>Model\Entity\SOAP.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.Symptom" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAQAAAAAASAAAACAQAACAAQAAAAGAgAE=</HashCode>
+      <FileName>Model\Entity\Symptom.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.System_Info" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAgAAAAAAAAAAAAAAAAAAhAAAA=</HashCode>
+      <FileName>Model\Entity\System_Info.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.Village" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="37" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Entity\Village.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.Vision" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="26.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAQAAABAAAAKAAAAAAAAACHAAAA=</HashCode>
+      <FileName>Model\Entity\Vision.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.Vital" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="28.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEABAQQAAAAQAIEAQAAAIAAgAQIAAAIAAAAIIAGEAAA=</HashCode>
+      <FileName>Model\Entity\Vital.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.HISDataset" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAGBNAAAAAAAAAAAAACAQIAAAAAQDCgBAAAgAEAAAA=</HashCode>
+      <FileName>Model\HISDataset.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.ClinicRepository" Collapsed="true">
+    <Position X="16" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Repository\ClinicRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.FamilyRepository" Collapsed="true">
+    <Position X="20.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAEAAAAAgAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Model\Repository\FamilyRepository .cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.HabitRepository" Collapsed="true">
+    <Position X="25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAgAAAAAAAAAABAAgAAAAAAAACEAAgAAAAA=</HashCode>
+      <FileName>Model\Repository\HabitRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.HIslandRepository" Collapsed="true">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Repository\HIslandRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.OccupationRepository" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Repository\OccupationRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.OperatorRepository" Collapsed="true">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAACIA=</HashCode>
+      <FileName>Model\Repository\OperatorRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.ProfileRepository" Collapsed="true">
+    <Position X="9.25" Y="4.75" Width="1.75" />
+    <Members>
+      <Field Name="bYears" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>CwAAFAAIgAQCEBAAAFAAAUAAoCQEAiAICEAAgABDFAA=</HashCode>
+      <FileName>Model\Repository\ProfileRepository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="bYears" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.RecordRepository" Collapsed="true">
+    <Position X="11.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAgAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Model\Repository\RecordRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.ReligionRepository" Collapsed="true">
+    <Position X="13.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Repository\ReligionRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.System_InfoRepository" Collapsed="true">
+    <Position X="18.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Model\Repository\System_InfoRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.VillageRepository" Collapsed="true">
+    <Position X="22.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Repository\VillageRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.AdoRepository&lt;T&gt;" Collapsed="true">
+    <Position X="4.25" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIQAAABAAIAAAAAAAAAAAAAAgAEAIEAgAgAIkAAABJg=</HashCode>
+      <FileName>Model\Template\AdoRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Model.SqlQueryBuilder&lt;T&gt;" Collapsed="true">
+    <Position X="6.5" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAIAAIAIAQAAgABAoSAAAAAEADACAAAA=</HashCode>
+      <FileName>Model\Template\SqlQueryBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HIS.Presenter.CustomerPresenter" Collapsed="true">
+    <Position X="33.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABAAAAIAAAAAAAAAAAAAAAAQCAAAAAAAAA=</HashCode>
+      <FileName>Presenter\CustomerPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HIS.Presenter.LoginPresenter" Collapsed="true">
+    <Position X="26.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAgAAAAAAAAAAAAAAAAAAgAAAAAAAAACAEAAAAAA=</HashCode>
+      <FileName>Presenter\LoginPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HIS.Presenter.OperatorPresenter" Collapsed="true">
+    <Position X="28.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAACAAhAAABAAAACBAAAAAEAAEAAAAAEAAAAAE=</HashCode>
+      <FileName>Presenter\OperatorPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HIS.Presenter.PatientRegistryPresenter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KQBYAIIgspCTMGgBCAAAEAEAAAAngABAAEAEHACQACA=</HashCode>
+      <FileName>Presenter\PatientRegistryPresenter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.Program" Collapsed="true">
+    <Position X="37" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HIS.Properties.Resources" Collapsed="true">
+    <Position X="35.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HIS.Properties.Settings" Collapsed="true">
+    <Position X="26.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HIS.View.CustomerForm" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAKSAiAAABAAAACQAQACQAAEAAACIAAAICAAACg=</HashCode>
+      <FileName>View\CustomerForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.View.LoginForm" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="37" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASBAAQAAAAGAIIACAEAAAABCLBCgAAAAAEA=</HashCode>
+      <FileName>View\LoginForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.View.OperatorForm" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="26.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAAYCBBAKUKEhUACAKoAEYCAAQAoAiIIICIgABFNFA=</HashCode>
+      <FileName>View\OperatorForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.View.PatientRegistryForm" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="30" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/xE2QHjZAamIm7OXiIWQtN4DyPncJQJgL4FicgbzJFo=</HashCode>
+      <FileName>View\PatientRegistryForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HIS.View.RecordForm" Collapsed="true">
+    <Position X="30" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>//D/AAgRAaAACP+wEIDI/NP/8o8//vsfmSACuf//h7M=</HashCode>
+      <FileName>View\RecordForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HIS.View.YesNoForm" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="30" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQQAAADEAAQAAAACAAAASAAAAAAAQIAAAAAAAAIA=</HashCode>
+      <FileName>View\YesNoForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="HIS.Model.ICustomerRepository" Collapsed="true">
+    <Position X="28.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAIAAAAAABAAA=</HashCode>
+      <FileName>Model\ICustomerRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.Model.IHISDataset">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACBJAAAAAAAAAAAAACAAAAAAAAQCCgBAAAgAAAAAA=</HashCode>
+      <FileName>Model\IHISDataset.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.Model.IClinicRepository" Collapsed="true">
+    <Position X="22.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\RepositoryInterface\IClinicRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.Model.IFamilyRepository" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAIgAAAAAI=</HashCode>
+      <FileName>Model\RepositoryInterface\IFamilyRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.Model.IHabitRepository" Collapsed="true">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAABAAAAAAAAAAAAEIggAAAAA=</HashCode>
+      <FileName>Model\RepositoryInterface\IHabitRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.Model.IHIslandRepository" Collapsed="true">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\RepositoryInterface\IHIslandRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.Model.IOccupationRepository" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\RepositoryInterface\IOccupationRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.Model.IOperatorRepository" Collapsed="true">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACIA=</HashCode>
+      <FileName>Model\RepositoryInterface\IOperatorRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.Model.IProfileRepository" Collapsed="true">
+    <Position X="16" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgAABAAIgAQCABAAABAAAUAAICQEAiAICEAAgABDFAA=</HashCode>
+      <FileName>Model\RepositoryInterface\IProfileRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.Model.IRecordRepository" Collapsed="true">
+    <Position X="18.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Model\RepositoryInterface\IRecordRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.Model.IReligionRepository" Collapsed="true">
+    <Position X="20.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\RepositoryInterface\IReligionRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.Model.ISystem_InfoRepository" Collapsed="true">
+    <Position X="25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Model\RepositoryInterface\ISystem_InfoRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.Model.IVillageRepository" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\RepositoryInterface\IVillageRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.Model.IAggregateRoot" Collapsed="true">
+    <Position X="26.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Template\IAggregateRoot.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.Model.IEntityWithReocord" Collapsed="true">
+    <Position X="31.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAA=</HashCode>
+      <FileName>Model\Template\IEntityWithRecord.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.Model.IRepository&lt;T&gt;" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAEAAEAAAgAAAAAAAAA=</HashCode>
+      <FileName>Model\Template\IRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.Model.IUnitOfWork" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAQIAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Template\IUnitOfWork.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.Model.IUnitOfWorkRepository" Collapsed="true">
+    <Position X="26.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAgAAAAAAAAAAg=</HashCode>
+      <FileName>Model\Template\IUnitOfWorkRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.Presenter.IYesNoFormPresenter" Collapsed="true">
+    <Position X="28.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Presenter\IYesNoFormPresenter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.View.ICustomerView" Collapsed="true">
+    <Position X="30" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAQAAAAAACIAAAIAAAAAg=</HashCode>
+      <FileName>View\ICustomerView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.View.ILoginView" Collapsed="true">
+    <Position X="33.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAEAEAAAAAAAAEAABAKBAAAAAAAAA=</HashCode>
+      <FileName>View\ILoginView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.View.IOperatorView" Collapsed="true">
+    <Position X="35.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAAAAABAAQCAAAAAAIAAEAAAAQAgACIIACAAABBNAA=</HashCode>
+      <FileName>View\IOperatorView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.View.IPatientRegistryView" Collapsed="true">
+    <Position X="37" Y="7.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ThESQEgYACgAgBOACAEAgAwBCCgEAABgKYEAAgTiBBI=</HashCode>
+      <FileName>View\IPatientRegistryView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="HIS.View.IYesNoView" Collapsed="true">
+    <Position X="30" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAAAAAAAAAAAAAAAAAAAAEAAAAIAAAAACAAAA=</HashCode>
+      <FileName>View\IYesNoView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
